@@ -1,0 +1,12 @@
+name: base_custom
+version: 1.0.0
+
+authors:
+  - Daniel P. Clark <6ftdan@gmail.com>
+
+description: |
+  Define any base conversion with any identifier for each value.
+
+crystal: 0.21.1
+
+license: MIT
