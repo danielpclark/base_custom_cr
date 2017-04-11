@@ -29,10 +29,10 @@ class BaseCustom
       end
     end
     i, i_out = 0, 0
-    input_val.split(delim).reverse.each do |c|
-      next if c.size == 0
+    input_val.split(delim).reverse.each do |s|
+      next if s.size == 0
       place = primitives_hash.size ** i
-      i_out += primitives_hash[c] * place
+      i_out += primitives_hash[s] * place
       i += 1
     end
     i_out
