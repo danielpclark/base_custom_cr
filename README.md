@@ -1,4 +1,7 @@
 # BaseCustom
+
+[![Build Status](https://travis-ci.org/danielpclark/base_custom_cr.svg?branch=master)](https://travis-ci.org/danielpclark/base_custom_cr)
+
 by Daniel P. Clark
 
 Ported from Ruby gem [basecustom](https://github.com/danielpclark/basecustom).
